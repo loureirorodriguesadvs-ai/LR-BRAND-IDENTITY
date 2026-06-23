@@ -1,0 +1,32 @@
+/**
+ * LR Brand Identity — CSS Custom Properties
+ * "source of truth" para todos os projetos LR
+ */
+
+:root {
+  /* ── Brand Colors ── */
+  --lr-graphite:   #161616;
+  --lr-charcoal:   #2A2A2A;
+  --lr-ivory:      #F4EFE8;
+  --lr-burgundy:   #8D1A4A;
+  --lr-rose:       #C6A6A1;
+  --lr-rose-light: #EDD4CE;
+
+  /* ── Functional Colors ── */
+  --lr-muted:      #A7ADB5;
+  --lr-subtle:     #4A4A52;
+  --lr-border:     #222222;
+  --lr-surface:    #1A1A1A;
+  --lr-burgundy-l: #A82058;
+  --lr-white:      #FFFFFF;
+
+  /* ── Typography ── */
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans:  'Inter', system-ui, sans-serif;
+
+  /* ── Spacing (kept minimal) ── */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+}

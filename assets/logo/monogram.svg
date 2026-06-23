@@ -1,0 +1,29 @@
+<svg width="180" height="130" viewBox="0 0 180 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LR monogram">
+  <title>LR</title>
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: normal;
+        font-weight: 300;
+        font-display: block;
+        src: url('https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOitk9IfqxUQ.woff2') format('woff2');
+        unicode-range: U+0000-00FF;
+      }
+    </style>
+  </defs>
+
+  <rect width="180" height="130" fill="#161616"/>
+
+  <text x="12" y="100"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="100" font-weight="300"
+    fill="#8D1A4A">L</text>
+
+  <text x="85" y="100"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="100" font-weight="300"
+    fill="#C6A6A1">R</text>
+
+  <rect x="8" y="107" width="164" height="2.5" fill="#8D1A4A" rx="1.25"/>
+</svg>

@@ -1,0 +1,78 @@
+<svg width="400" height="260" viewBox="0 0 400 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LR Advocacia Inteligente">
+  <title>LR Advocacia Inteligente</title>
+  <defs>
+    <!-- Font embedded via @font-face — works in Chrome/Firefox/Safari standalone SVG -->
+    <style>
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: normal;
+        font-weight: 300;
+        font-display: block;
+        src: url('https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOitk9IfqxUQ.woff2') format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC;
+      }
+      @font-face {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 200;
+        font-display: block;
+        src: url('https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZ9hiJ-Ek-_EeA.woff2') format('woff2');
+        unicode-range: U+0000-00FF;
+      }
+      @font-face {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-display: block;
+        src: url('https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiJ-Ek-_EeA.woff2') format('woff2');
+        unicode-range: U+0000-00FF;
+      }
+    </style>
+
+    <!-- ADVOCACIA INTELIGENTE — metallic rose gold -->
+    <linearGradient id="ld-meta" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#C6A6A1"/>
+      <stop offset="40%"  stop-color="#EDD4CE"/>
+      <stop offset="100%" stop-color="#C6A6A1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="260" fill="#161616"/>
+
+  <!-- ── LR Monogram — kerning editorial, tight pair ── -->
+
+  <!-- L — off-white, Cormorant Garamond Light -->
+  <text
+    x="78" y="170"
+    font-family="'Cormorant Garamond', 'Times New Roman', serif"
+    font-size="152" font-weight="300"
+    fill="#8D1A4A"
+    letter-spacing="-2">L</text>
+
+  <!-- R — rose, slightly overlapping L's foot -->
+  <text
+    x="164" y="170"
+    font-family="'Cormorant Garamond', 'Times New Roman', serif"
+    font-size="152" font-weight="300"
+    fill="#C6A6A1">R</text>
+
+  <!-- Borgonha rule — sólido, visível -->
+  <rect x="78" y="178" width="244" height="2" fill="#8D1A4A" rx="1"/>
+
+  <!-- ADVOCACIA INTELIGENTE — rose gold, wide tracking -->
+  <text x="200" y="208"
+    font-family="'Inter', 'Helvetica Neue', sans-serif"
+    font-size="10.5" font-weight="300"
+    fill="url(#ld-meta)"
+    text-anchor="middle"
+    letter-spacing="5.5">ADVOCACIA INTELIGENTE</text>
+
+  <!-- LOUREIRO &amp; RODRIGUES — muted, tighter -->
+  <text x="200" y="226"
+    font-family="'Inter', 'Helvetica Neue', sans-serif"
+    font-size="8" font-weight="200"
+    fill="#6E7180"
+    text-anchor="middle"
+    letter-spacing="3.5">LOUREIRO &amp; RODRIGUES ADVOCACIA</text>
+</svg>
